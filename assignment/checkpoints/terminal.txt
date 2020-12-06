@@ -20,7 +20,8 @@ example: touch TESTFILE.js
 git version 2.15.0
 
 # 8 - Why would you run the command 'git status'?
-
+Check if you recognize any of your files has been modified.
 # 9 - What does the command 'git add .' do?
-
+Added files to anything you created
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+git push -u origin master
