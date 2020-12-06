@@ -9,6 +9,13 @@ h1 {
   font-family: sans-serif;
   text-align: center;
 }
+
+img {
+  padding:1px;
+  border:1px solid #021a40;
+  background-color:#ff0
+
+}
 .TFF {
   color: #FFD700;
   font-size: 14px;
@@ -24,6 +31,7 @@ h1 {
 }
 .list {
   font-family: fantasy;
+  color: #FFFFFF;
 }
 /* Align the h1 containing your name in the center of the header*/
 
