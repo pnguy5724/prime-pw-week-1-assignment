@@ -7,6 +7,23 @@ h1 {
   color: #ffD700;
   font-size: 30px;
   font-family: sans-serif;
+  text-align: center;
+}
+.TFF {
+  color: #FFD700;
+  font-size: 14px;
+  font-family: sans-serif;
+}
+.header {
+  background: black;
+  padding-left: 10px;
+}
+.footer {
+  background: green;
+  color: #FFFFFF;
+}
+.list {
+  font-family: fantasy;
 }
 /* Align the h1 containing your name in the center of the header*/
 
